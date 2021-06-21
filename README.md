@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sarathchandrikak
-- 🌱 I’m currently learning Computer Vision
+- 🌱 I’m currently seeking for Data Analyst Roles.
 - 💞️ I’m looking to collaborate on python and machine learning projects
-- 📫 How to reach me sarathchandrikaksc@gmail.com
+- 📫 How to reach me!!? - sarathchandrikaksc@gmail.com
 
 <!---
 sarathchandrikak/sarathchandrikak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
