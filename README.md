@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sarathchandrikak
 - 🌱 I’m currently seeking for Data Analyst Roles.
-- 💞️ I’m looking to collaborate on python and machine learning projects
 - 📫 How to reach me!!? - sarathchandrikaksc@gmail.com
 
 <!---
