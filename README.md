@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @sarathchandrikak
 - 🌱 I’m currently seeking full time Data Analyst Roles.
+- 💙 Interested in Computer Vision, ML
 - 📫 How to reach me!!? - sarathchandrikaksc@gmail.com, https://www.linkedin.com/in/sarath-chandrika-k/
 
 <!---
