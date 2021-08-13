@@ -5,7 +5,7 @@ I am Sarath Chandrika K, can call me Sarath. After multiple career thoughts for 
 - 👨‍💻 Currently working as Software Engineer @Robert Bosch
 - 🎯 Focusing on career growth in Data Analytics
 - 💙 Interested in Data Analysis, Data Visualisation, ML and Computer Vision
-- 🎓 Graduate in Computer Science Engineering from Amrita Vishwa Vidyapeetham, Kerala, India
+- 🎓 Graduate in Computer Science Engineering from Amrita Vishwa Vidyapeetham, Kerala, India (3.52/4.0)
 - 📫 How to reach me!!? 
 -     📫 - sarathchandrikaksc@gmail.com 
 -     🔗 - https://www.linkedin.com/in/sarath-chandrika-k/
