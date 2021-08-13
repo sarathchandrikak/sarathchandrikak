@@ -12,7 +12,10 @@ I am Sarath Chandrika K, can call me Sarath. After multiple career thoughts for 
 
 
 Skills 💻: Python, Statistics and EDA, Database, Data Visualization, Feature Engineering, Machine Learning, Git\
-Tools 🔨: Excel, MySQL, Tableau, Jupyter Notebook, Anaconda, Bitbucket, BigQuery
+Tools 🔨: Excel, MySQL, Tableau, Jupyter Notebook, Anaconda, Bitbucket, BigQuery\
+
+For more Viz -> Tableau Profile 🔗 - https://public.tableau.com/app/profile/sarath.c2563 
+
 
 Apart from data and laptop 💻, I like to workout in Gym 💪🏽 (not at home) and I play violin 🎻. 
 <!---
