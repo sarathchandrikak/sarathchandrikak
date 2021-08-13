@@ -1,6 +1,6 @@
 👋 Hi, I’m @sarathchandrikak
 
-I am Sarath Chandrika K, can call me Sarath. After multiple career thoughts for couple of years, I figured out my interest in data analytics domain and currently on the move for a thriving success in the domain. I can say I am well determined and focused in achieving things I wish for and my main motto "Don't think, just do it whatever it takes" 
+I am Sarath Chandrika K, can call me Sarath. After multiple career thoughts for couple of years, I figured out my interest in data analytics domain and currently on the move for a thriving success. I can say I am well determined and focused in achieving things I wish for and my main motto "Don't think, just do it whatever it takes" 
 
 - 👨‍💻 Currently working as Software Engineer @Robert Bosch
 - 🎯 Focusing on career growth in Data Analytics
