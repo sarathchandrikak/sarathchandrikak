@@ -9,8 +9,8 @@ After multiple career thoughts for couple of years, I figured out my interest in
 - 💙 Interested in Data Analysis, Data Visualisation, ML and Computer Vision
 - 🎓 Graduate in Computer Science Engineering from Amrita Vishwa Vidyapeetham, Kerala, India (3.52/4.0)
 - 📫 How to reach me!!? 
--   📫 - sarathchandrikaksc@gmail.com 
--   🔗 - [Linkedin](https://www.linkedin.com/in/sarath-chandrika-k/)
+  -   📫 - sarathchandrikaksc@gmail.com 
+  -   🔗 - [Linkedin](https://www.linkedin.com/in/sarath-chandrika-k/)
 
 
 Skills 💻: Python, Statistics and EDA, Database, Data Visualization, Feature Engineering, Machine Learning, Git\
