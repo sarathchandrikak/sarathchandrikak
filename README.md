@@ -1,4 +1,4 @@
-👋 Hi, I’m
+👋 Hi
 
 I am Sarath or Chandrika whatever you prefer to refer😉
 
