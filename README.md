@@ -1,6 +1,6 @@
 👋 Hi there!!
 
-I am Sarath Chandrika K - Sarath or Chandrika whatever you prefer to refer. 
+I am Sarath or Chandrika whatever you prefer to refer. 
 
 After multiple career thoughts for couple of years, I figured out my interest in data analytics domain and currently on the move for a thriving success. I can say I am well determined and focused in achieving things I wish for and my main motto "Don't think, just do it whatever it takes" 
 
