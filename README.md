@@ -16,7 +16,7 @@ After multiple career thoughts for couple of years, I figured out my interest in
 Skills 💻: Python, Statistics and EDA, Database, Data Visualization, Feature Engineering, Machine Learning, Git\
 Tools 🔨: Excel, MySQL, Tableau, Bitbucket, BigQuery
 
-For more Viz 🔗 : [Tableau Profile](https://public.tableau.com/app/profile/sarath.c2563)
+For more Viz 🔗 : [Tableau Profile](https://public.tableau.com/app/profile/sarath.chandrika.k)
 
 Apart from data📊 and laptop 💻, I like to workout in Gym 💪🏽 (not at home) and I play violin 🎻. 
 <!---
