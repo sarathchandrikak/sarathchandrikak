@@ -2,13 +2,15 @@
 
 I am Sarath or Chandrika whatever you prefer to refer😉
 
-After multiple career thoughts for couple of years, I figured out my interest in data analytics domain and currently on the move for a thriving success. I can say I am well determined and focused in achieving things I wish for and my main motto "Don't think, just do it whatever it takes" 
+After multiple career thoughts for couple of years, I figured out my interest in data analytics domain and currently on the move for a thriving success. 
+
+A quick intro - 
 
 - 👨‍💻 Currently working as Software Engineer @Robert Bosch
 - 🎯 Focusing on career growth in Data Analytics
 - 💙 Interested in Data Analysis, Data Visualisation, ML and Computer Vision
 - 🎓 Graduate in Computer Science Engineering from Amrita Vishwa Vidyapeetham, Kerala, India (3.52/4.0)
-- 📫 How to reach me!!? 
+- 📫  How to reach me!!? 
   - 📫 - sarathchandrikaksc@gmail.com 
   - 🔗 - [Linkedin](https://www.linkedin.com/in/sarath-chandrika-k/)
 
