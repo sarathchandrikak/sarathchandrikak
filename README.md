@@ -1,3 +1,4 @@
+## ♦️ Intro
 👋 Hi
 
 I am Sarath or Chandrika whatever you prefer to refer😉
@@ -19,7 +20,7 @@ Skills 💻: Python, Statistics and EDA, Database, Data Visualization, Feature E
 Tools 🔨: Excel, MySQL, Tableau, Bitbucket, BigQuery
 For more Viz 🔗 : [Tableau Profile](https://public.tableau.com/app/profile/sarath.chandrika.k)
 
-## Projects
+## ♦️ Projects
 
 ✅ [Assure Next Simulation Project](https://github.com/sarathchandrikak/Business-Analyst/tree/main/Excel)
 
