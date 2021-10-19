@@ -2,7 +2,7 @@
 
 I am Sarath or Chandrika whatever you prefer to refer😉
 
-After multiple career thoughts for couple of years, I figured out my interest in data analytics domain and currently on the move for a thriving success. 
+After multiple career thoughts for couple of years, I figured out my interest in data analytics domain.
 
 A quick intro - 
 
