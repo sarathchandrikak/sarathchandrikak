@@ -16,7 +16,7 @@ A quick intro -
 
 
 Skills 💻: Python, Statistics and EDA, Database, Data Visualization, Feature Engineering, Machine Learning, Git\
-Tools 🔨: Excel, MySQL, Tableau, Bitbucket, BigQuery
+Tools 🔨: Excel, MySQL, Tableau, Bitbucket, BigQuery\
 For more Viz 🔗 : [Tableau Profile](https://public.tableau.com/app/profile/sarath.chandrika.k)
 
 ## ♦️ Projects
