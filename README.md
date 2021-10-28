@@ -27,8 +27,6 @@ For more Viz 🔗 : [Tableau Profile](https://public.tableau.com/app/profile/sar
 
 ✅ [Bellabeat Case Study](https://github.com/sarathchandrikak/Google-Data-Analytics-Capstone/blob/main/Markdown.pdf)
 
-✅ [Uber Data Visualization](https://github.com/sarathchandrikak/Uber-Data-Visualization)
-
 ✅ [Prediction of Learning Disabilities in school age children](https://github.com/sarathchandrikak/Final-Year-Project)
 
 Apart from data📊 and laptop 💻, I like to workout in Gym 💪🏽 (not at home) and I play violin 🎻. 
