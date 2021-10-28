@@ -2,13 +2,13 @@
 
 👋 Hi, I am Sarath or Chandrika whatever you prefer to refer😉
 
-After multiple career thoughts for couple of years, I figured out my interest in data analytics domain.
+After multiple career thoughts for couple of years, I figured out my interest in Big data domain.
 
 A quick intro - 
 
 - 👨‍💻 Currently working as Software Engineer @Robert Bosch
-- 🎯 Focusing on career growth in Data Analytics
-- 💙 Interested in Data Analysis, Data Visualisation, ML and Computer Vision
+- 🎯 Focusing on career growth in Big Data Analytics 
+- 💙 Interested in Data Analysis, Data Visualisation, and Big Data
 - 🎓 Graduate in Computer Science Engineering from Amrita Vishwa Vidyapeetham, Kerala, India (3.52/4.0)
 - 📫  How to reach me!!? 
   - 📫 - sarathchandrikaksc@gmail.com 
