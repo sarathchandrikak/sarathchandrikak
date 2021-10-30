@@ -2,7 +2,7 @@
 
 👋 Hi, I am Sarath or Chandrika whatever you prefer to refer😉
 
-After multiple career thoughts for couple of years, I figured out my interest in Big data domain.
+After multiple career thoughts for couple of years, I figured out my interest in Big data Analytics domain.
 
 A quick intro - 
 
@@ -18,6 +18,8 @@ A quick intro -
 Skills 💻: Python, Statistics and EDA, Database, Data Visualization, Feature Engineering, Machine Learning, Git\
 Tools 🔨: Excel, MySQL, Tableau, Bitbucket, BigQuery\
 For more Viz 🔗 : [Tableau Profile](https://public.tableau.com/app/profile/sarath.chandrika.k)
+
+![](https://komarev.com/ghpvc/?username=sarathchandrikak)
 
 ## ♦️ Projects
 
