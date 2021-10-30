@@ -1,27 +1,43 @@
 ## ♦️ Intro
 
-👋 Hi, I am Sarath or Chandrika whatever you prefer to refer😉
+Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-After multiple career thoughts for couple of years, I figured out my interest in Big data Analytics domain.
+I am Sarath or Chandrika, whatever you prefer to refer. 
 
-A quick intro - 
+I am currently working as a Software Engineer in Robert Bosch. My work experience includes building desktop applications using Python, PyQt and working with exe files.
 
-- 👨‍💻 Currently working as Software Engineer @Robert Bosch
-- 🎯 Focusing on career growth in Big Data Analytics 
-- 💙 Interested in Data Analysis, Data Visualisation, and Big Data
-- 🎓 Graduate in Computer Science Engineering from Amrita Vishwa Vidyapeetham, Kerala, India (3.52/4.0)
-- 📫  How to reach me!!? 
-  - 📫 - sarathchandrikaksc@gmail.com 
-  - 🔗 - [Linkedin](https://www.linkedin.com/in/sarath-chandrika-k/)
+After multiple career options for couple of years, I figured out my interest in Data Analytics and Big Data domain. To pursue my interest I started building up the skills through courses, projects and case studies. 
+
+Apart from data and laptop, I am passionate about Fitness. In my free time, I cook and play violin. 
 
 
-Skills 💻: Python, Statistics and EDA, Database, Data Visualization, Feature Engineering, Machine Learning, Git\
-Tools 🔨: Excel, MySQL, Tableau, Bitbucket, BigQuery\
-For more Viz 🔗 : [Tableau Profile](https://public.tableau.com/app/profile/sarath.chandrika.k)
+Here's my brief journey into Data domain. 
 
-![](https://komarev.com/ghpvc/?username=sarathchandrikak)
 
-## ♦️ Projects
+## ♦️ Tools 🔨
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/DataVisualization-Tableau-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/VersionControl-Git-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Spreadsheet-Excel-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Frontend-PyQt-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
+
+## ♦️ Skills 💻
+![](https://img.shields.io/badge/DataAnalysis-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/HypothesisBuilding-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Database-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Statistics-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/ExploratoryDataAnalysis-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/FeatureEngineering-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/MachineLearning-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/TimeSeriesAnalysis-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
+
+
+## ♦️ Projects 🚧
 
 ✅ [Assure Next Simulation Project](https://github.com/sarathchandrikak/Business-Analyst/tree/main/Excel)
 
@@ -31,7 +47,27 @@ For more Viz 🔗 : [Tableau Profile](https://public.tableau.com/app/profile/sar
 
 ✅ [Prediction of Learning Disabilities in school age children](https://github.com/sarathchandrikak/Final-Year-Project)
 
-Apart from data📊 and laptop 💻, I like to workout in Gym 💪🏽 (not at home) and I play violin 🎻. 
+
+## ♦️ Connect with me 🔗
+<p>
+<a href="mailto:sarathchandrikaksc@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/sarath-chandrika-k/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://public.tableau.com/app/profile/sarath.chandrika.k"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"</a>
+<a href="https://www.instagram.com/sarath.chandrikak/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>  
+</p>
+  
+  
+## ♦️ Stats 📊
+  
+![Sarath's Profile Views](https://komarev.com/ghpvc/?username=sarathchandrikak)
+  
+![Sarath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarathchandrikak&show_icons=true&theme=dark)
+
+
+
+
+
+
 
 
 <!---
