@@ -39,6 +39,9 @@ Here's my brief journey into Data domain.
 
 ## ♦️ Projects 🚧
 
+✅ [Bitcoin Cryptocurrency Market](https://github.com/sarathchandrikak/Data-Analysis-Projects/tree/main/Bitcoin%20Market)
+
+
 ✅ [Assure Next Simulation Project](https://github.com/sarathchandrikak/Business-Analyst/tree/main/Excel)
 
 ✅ [Food Forecasting Analysis](https://github.com/sarathchandrikak/Food-Forecasting-Analysis)
