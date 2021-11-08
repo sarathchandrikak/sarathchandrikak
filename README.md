@@ -2,16 +2,27 @@
 
 Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am Sarath or Chandrika, whatever you prefer to refer. 
+I am Sarath Chandrika, You can call me Sarath or Chandrika. 
 
-I am currently working as a Software Engineer in Robert Bosch. My work experience includes building desktop applications using Python, PyQt and working with exe files.
+I am currently working as a Software Engineer in Robert Bosch. My work experience includes building desktop applications using Python, PyQt, playing with exe files.
 
-After multiple career options for couple of years, I figured out my interest in Data Analytics and Big Data domain. To pursue my interest I started building up the skills through courses, projects and case studies. 
+I figured out my interest in Data Analytics and Big Data domain. To pursue my interest I started building up the skills through coursework projects and case studies. 
 
 Apart from data and laptop, I am passionate about Fitness. In my free time, I cook and play violin. 
 
 
-Here's my brief journey into Data domain. 
+## ♦️ Projects 🚧
+
+✅ [Bitcoin Cryptocurrency Market](https://github.com/sarathchandrikak/Data-Analysis-Projects/tree/main/Bitcoin%20Market)
+
+
+✅ [Assure Next Simulation Project](https://github.com/sarathchandrikak/Business-Analyst/tree/main/Excel)
+
+✅ [Food Forecasting Analysis](https://github.com/sarathchandrikak/Food-Forecasting-Analysis)
+
+✅ [Bellabeat Case Study](https://github.com/sarathchandrikak/Google-Data-Analytics-Capstone/blob/main/Markdown.pdf)
+
+✅ [Prediction of Learning Disabilities in school age children](https://github.com/sarathchandrikak/Final-Year-Project)
 
 
 ## ♦️ Tools 🔨
@@ -34,21 +45,6 @@ Here's my brief journey into Data domain.
 ![](https://img.shields.io/badge/FeatureEngineering-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/MachineLearning-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/TimeSeriesAnalysis-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
-
-
-## ♦️ Projects 🚧
-
-✅ [Bitcoin Cryptocurrency Market](https://github.com/sarathchandrikak/Data-Analysis-Projects/tree/main/Bitcoin%20Market)
-
-
-✅ [Assure Next Simulation Project](https://github.com/sarathchandrikak/Business-Analyst/tree/main/Excel)
-
-✅ [Food Forecasting Analysis](https://github.com/sarathchandrikak/Food-Forecasting-Analysis)
-
-✅ [Bellabeat Case Study](https://github.com/sarathchandrikak/Google-Data-Analytics-Capstone/blob/main/Markdown.pdf)
-
-✅ [Prediction of Learning Disabilities in school age children](https://github.com/sarathchandrikak/Final-Year-Project)
 
 
 ## ♦️ Connect with me 🔗
