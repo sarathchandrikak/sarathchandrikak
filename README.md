@@ -15,8 +15,7 @@ Apart from data and laptop, I am passionate about Fitness. In my free time, I co
 
 ## ♦️ Projects 🚧
 
-✅ [Bitcoin Cryptocurrency Market](https://github.com/sarathchandrikak/Data-Analysis-Projects/tree/main/Bitcoin%20Market)
-
+✅ [Employee Info Case Study](https://github.com/sarathchandrikak/sql-data-analysis/blob/main/Employee Info Case Study)
 
 ✅ [Assure Next Simulation Project](https://github.com/sarathchandrikak/Business-Analyst/tree/main/Excel)
 
