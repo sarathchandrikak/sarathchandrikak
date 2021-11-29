@@ -15,7 +15,7 @@ Apart from data and laptop, I am passionate about Fitness. In my free time, I co
 
 ## ♦️ Projects 🚧
 
-✅ [Employee Info Case Study](https://github.com/sarathchandrikak/sql-data-analysis/blob/main/Employee Info Case Study)
+✅ [Employee Info Case Study](https://github.com/sarathchandrikak/sql-data-analysis/tree/main/Employee%20Info%20Case%20Study)
 
 ✅ [Assure Next Simulation Project](https://github.com/sarathchandrikak/Business-Analyst/tree/main/Excel)
 
