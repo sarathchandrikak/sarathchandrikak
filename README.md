@@ -61,7 +61,7 @@ Apart from data and laptop, I am passionate about Fitness. In my free time, I co
   
 ![Sarath's Profile Views](https://komarev.com/ghpvc/?username=sarathchandrikak)
   
-![Sarath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarathchandrikak&show_icons=true&theme=dark)
+<!-- ![Sarath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarathchandrikak&show_icons=true&theme=dark) -->
 
 
 
