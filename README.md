@@ -15,17 +15,12 @@ Apart from data and laptop, I am passionate about Fitness. In my free time, I co
 
 ## ♦️ Projects 🚧
 
- ✅ [Farmer's Market Expansion](https://github.com/sarathchandrikak/Data-Analysis-Projects/tree/main/Farmer%20Expansion)
 
-✅ [Employee Info Case Study](https://github.com/sarathchandrikak/sql-data-analysis/tree/main/Employee%20Info%20Case%20Study)
-
-✅ [Assure Next Simulation Project](https://github.com/sarathchandrikak/Business-Analyst/tree/main/Excel)
-
-✅ [Food Forecasting Analysis](https://github.com/sarathchandrikak/Food-Forecasting-Analysis)
-
-✅ [Bellabeat Case Study](https://github.com/sarathchandrikak/Google-Data-Analytics-Capstone/blob/main/Markdown.pdf)
-
-✅ [Prediction of Learning Disabilities in school age children](https://github.com/sarathchandrikak/Final-Year-Project)
+| Python | SQL | Excel, Tableau, R |
+| :---       |     :---      |  :--- |
+| ✅ [Prediction of Learning Disabilities in school age children](https://github.com/sarathchandrikak/Final-Year-Project) | ✅ [Farmer's Market Expansion](https://github.com/sarathchandrikak/Data-Analysis-Projects/tree/main/Farmer%20Expansion) |  ✅ [Assure Next Simulation Project](https://github.com/sarathchandrikak/Business-Analyst/tree/main/Excel)|
+| | ✅ [Employee Info Case Study](https://github.com/sarathchandrikak/sql-data-analysis/tree/main/Employee%20Info%20Case%20Study) | ✅ [Food Forecasting Analysis](https://github.com/sarathchandrikak/Food-Forecasting-Analysis)|
+| | | ✅ [Bellabeat Case Study](https://github.com/sarathchandrikak/Google-Data-Analytics-Capstone/blob/main/Markdown.pdf)| 
 
 
 ## ♦️ Tools 🔨
