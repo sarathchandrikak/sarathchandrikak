@@ -8,12 +8,14 @@ I am currently working as a Software Engineer at Robert Bosch and I am a masters
 
 My work experience includes building desktop applications using Python, PyQt, playing with exe files. 
 
-I figured out my interest in Data Analytics and Big Data domain. To pursue my interest I started building up the skills through coursework projects and case studies. 
+I figured out my interest in Data Analytics and Big Data domain. To pursue my interest I started building up the skills through projects and case studies. 
 
 Apart from data and laptop, I am passionate about Fitness. In my free time, I cook and play violin. 
 
 
 ## ♦️ Projects 🚧
+
+ ✅ [Farmer's Market Expansion](https://github.com/sarathchandrikak/Data-Analysis-Projects/tree/main/Farmer%20Expansion)
 
 ✅ [Employee Info Case Study](https://github.com/sarathchandrikak/sql-data-analysis/tree/main/Employee%20Info%20Case%20Study)
 
@@ -28,9 +30,16 @@ Apart from data and laptop, I am passionate about Fitness. In my free time, I co
 
 ## ♦️ Tools 🔨
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Database-SQLServer-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) 
+
 ![](https://img.shields.io/badge/DataVisualization-Tableau-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/VersionControl-Git,BitBucket-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/DataVisualization-PowerBI-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
+
+![](https://img.shields.io/badge/VersionControl-Git-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/VersionControl-BitBucket-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
+![](https://img.shields.io/badge/Programming-Python-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/Spreadsheet-Excel-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
