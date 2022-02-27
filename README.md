@@ -67,14 +67,3 @@ Apart from data and laptop, I am passionate about Fitness. In my free time, I co
   
 <!-- ![Sarath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarathchandrikak&show_icons=true&theme=dark) -->
 
-
-
-
-
-
-
-
-<!---
-sarathchandrikak/sarathchandrikak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
