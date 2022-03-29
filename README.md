@@ -4,9 +4,9 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
 I am Sarath Chandrika, You can call me Sarath or Chandrika. 
 
-I am currently working as a Software Engineer at Robert Bosch and I am a masters student pursuing Master of Science in Data Science from IIIT Bangalore and Liverpool John Moores University specialization in Data Engineering. 
+I am currently working as a Data Analyst at Analytical Wizards and I am a masters student pursuing Master of Science in Data Science from IIIT Bangalore and Liverpool John Moores University specialization in Data Engineering. 
 
-My work experience includes building desktop applications using Python, PyQt, playing with exe files. 
+My past work experience includes building desktop applications using Python, PyQt, playing with exe files. 
 
 I figured out my interest in Data Analytics and Big Data domain. To pursue my interest I started building up the skills through projects and case studies. 
 
