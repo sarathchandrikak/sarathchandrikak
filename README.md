@@ -8,7 +8,7 @@ I am currently working as a Data Analyst at Analytical Wizards and I am a master
 
 My past work experience includes building desktop applications using Python, PyQt, playing with exe files. 
 
-I figured out my interest in Data Analytics and Big Data domain. To pursue my interest I started building up the skills through projects and case studies. 
+My work over here includes casestudies with respect to Exploaratory Data Analysis using Python, SQL or data visualization tools like Tableau or PowerBI.
 
 Apart from data and laptop, I am passionate about Fitness. In my free time, I cook and play violin. 
 
