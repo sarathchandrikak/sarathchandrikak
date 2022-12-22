@@ -13,7 +13,7 @@ My work over here includes casestudies with respect to Exploaratory Data Analysi
 Apart from data and laptop, I am passionate about Fitness. In my free time, I cook and play violin. 
 
 
-## ♦️ Projects 🚧
+## ♦️ Data Analysis Projects 🚧
 
 ✅ [Prediction of Learning Disabilities in school age children](https://github.com/sarathchandrikak/Final-Year-Project)\
 ✅ [Farmer's Market Expansion](https://github.com/sarathchandrikak/Data-Analysis-Projects/tree/main/Farmer%20Expansion)\
