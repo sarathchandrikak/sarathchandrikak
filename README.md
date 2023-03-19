@@ -2,35 +2,40 @@
 
 Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am A Data Analyst with strong background in Computer Science Engineering. 3+ years of work experience with Python, OOPS, SQL
+🌱 I am A Data Analyst with strong background in Computer Science Engineering. 3+ years of work experience with Python, OOPS, SQL
 
-My professional work includes developing 
+🌱 My professional work includes developing 
 
-1. Enterprise ETL website comprising of all of the analytical, text, logical, mathematical functions using Python, PySpark.
-2. Developing E2E customer segmentation models using Python and ML. 
+      ▶️ Enterprise ETL website using Python, PySpark
+      
+      ▶️ Developing E2E customer segmentation models using Python and ML
 
-Addition to this I am well versed in 
+🌱 I am well versed in 
 
-Advanced Excel, SQL, EDA, Tableau, Machine Learning
+     ▶️ Python, OOPS, System Design
 
-Big Data technologies - Spark, PySpark, Spark Streaming, Sqoop, Kafka, Airflow.
+     ▶️ Advanced Excel, SQL, EDA, Tableau, ML, Data Modelling
+  
+     ▶️ Big Data technologies - Spark, PySpark, Spark Streaming, Sqoop, Kafka, Airflow
+    
+     ▶️ AWS Cloud Services - S3, Redshift, EMR, Kinesis
 
-I am pursuing Msc. in Data Science offered by LJMU in partnership with IIIT-Bangalore in Data Engineering as specialisation. 
+🌱 I am pursuing Msc. in Data Science offered by LJMU in partnership with IIIT-Bangalore in Data Engineering as specialisation. 
 
-My Data Analysis work over here includes casestudies and EDA using Python, SQL or data visualization tools Tableau or PowerBI.
+🌱 My Data Analysis work over here includes casestudies and EDA using Python, SQL or data visualization tools Tableau or PowerBI.
 
-Apart from data and laptop, I am passionate about Fitness. In my free time, I cook and play violin. 
+🌱 Apart from data and laptop, I am passionate about Fitness. In my free time, I cook and play violin. 
 
 
 ## ♦️ Data Analysis Projects 🚧
 
-✅ [Prediction of Learning Disabilities in school age children](https://github.com/sarathchandrikak/Final-Year-Project)\
-✅ [Farmer's Market Expansion](https://github.com/sarathchandrikak/Data-Analysis-Projects/tree/main/Farmer%20Expansion)\
-✅ [NYC Taxi ride EDA](https://github.com/sarathchandrikak/Data-Analysis-Projects/tree/main/NYC%20Taxi%20EDA)\
-✅ [Food Forecasting Analysis](https://github.com/sarathchandrikak/Food-Forecasting-Analysis)\
-✅ [Bellabeat Case Study](https://github.com/sarathchandrikak/Google-Data-Analytics-Capstone/blob/main/Markdown.pdf)\
-✅ [Assure Next Simulation Project](https://github.com/sarathchandrikak/Business-Analyst/tree/main/Excel)\
-✅ [Employee Info Case Study](https://github.com/sarathchandrikak/sql-data-analysis/tree/main/Employee%20Info%20Case%20Study)
+🌱 [Prediction of Learning Disabilities in school age children](https://github.com/sarathchandrikak/Final-Year-Project)\
+🌱 [Farmer's Market Expansion](https://github.com/sarathchandrikak/Data-Analysis-Projects/tree/main/Farmer%20Expansion)\
+🌱 [NYC Taxi ride EDA](https://github.com/sarathchandrikak/Data-Analysis-Projects/tree/main/NYC%20Taxi%20EDA)\
+🌱 [Food Forecasting Analysis](https://github.com/sarathchandrikak/Food-Forecasting-Analysis)\
+🌱 [Bellabeat Case Study](https://github.com/sarathchandrikak/Google-Data-Analytics-Capstone/blob/main/Markdown.pdf)\
+🌱 [Assure Next Simulation Project](https://github.com/sarathchandrikak/Business-Analyst/tree/main/Excel)\
+🌱 [Employee Info Case Study](https://github.com/sarathchandrikak/sql-data-analysis/tree/main/Employee%20Info%20Case%20Study)
 
 
 ## ♦️ Tools 🔨
@@ -89,25 +94,16 @@ Apart from data and laptop, I am passionate about Fitness. In my free time, I co
 <a href="https://www.linkedin.com/in/sarath-chandrika-k/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://public.tableau.com/app/profile/sarath.chandrika.k"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"</a>
 <a href="https://www.instagram.com/sarath.chandrikak/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>  
+<a href="https://sarathchandrikak.github.io/"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"</a>
 </p>
-  
-Achievements: 
-
-I have been awarded the Stride The Tride award for independently handling the development and management of the tool. 
 
   
-
-Checkout my work - 
-
-https://sarathchandrikak.github.io/
-
-
-Please feel free to connect with me - sarathchandrikaksc@gmail.com
-
+ ## ♦️ ![Sarath's Profile Views](https://komarev.com/ghpvc/?username=sarathchandrikak)
   
-## ♦️ Stats 📊
-  
-![Sarath's Profile Views](https://komarev.com/ghpvc/?username=sarathchandrikak)
-  
-<!-- ![Sarath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarathchandrikak&show_icons=true&theme=dark) -->
+<!-- ![Sarath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarathchandrikak&show_icons=true&theme=dark) Please feel free to connect with me - sarathchandrikaksc@gmail.com
+
+
+## ♦️ Achievements 😎
+
+I have been awarded the Stride The Tride award for independently handling the development and management of the tool. -->
 
