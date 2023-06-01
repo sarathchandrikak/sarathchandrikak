@@ -16,9 +16,9 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
      ▶️ Advanced Excel, SQL, EDA, Tableau, ML, Data Modelling
   
-     ▶️ Big Data technologies - Spark, PySpark, Spark Streaming, Sqoop, Kafka, Airflow
+     ▶️ Big Data technologies - Spark, PySpark, Kafka, Airflow
     
-     ▶️ AWS Cloud Services - S3, Redshift, EMR, Kinesis
+     ▶️ AWS Cloud Services - S3, Redshift, EMR, Kinesis, Boto3
 
 🌱 I am pursuing Msc. in Data Science offered by LJMU in partnership with IIIT-Bangalore in Data Engineering as specialisation. 
 
