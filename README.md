@@ -45,8 +45,6 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 ![](https://img.shields.io/badge/DataWarehouse-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) 
 ![](https://img.shields.io/badge/ETL-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) 
 ![](https://img.shields.io/badge/ApacheSpark-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) 
-<!-- ![](https://img.shields.io/badge/ApacheSqoop-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)  -->
-![](https://img.shields.io/badge/ApacheFlume-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) 
 ![](https://img.shields.io/badge/ApacheHive-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) 
 ![](https://img.shields.io/badge/ApacheKafka-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) 
 ![](https://img.shields.io/badge/ApacheAirflow-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) 
