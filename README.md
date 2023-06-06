@@ -26,7 +26,7 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
 🌱 Apart from data and laptop, I am passionate about Fitness. In my free time, I cook and play violin. 
 
-
+<!-- 
 ## ♦️ Data Analysis Projects 🚧
 
 🌱 [Prediction of Learning Disabilities in school age children](https://github.com/sarathchandrikak/Final-Year-Project)\
@@ -36,7 +36,7 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 🌱 [Bellabeat Case Study](https://github.com/sarathchandrikak/Google-Data-Analytics-Capstone/blob/main/Markdown.pdf)\
 🌱 [Assure Next Simulation Project](https://github.com/sarathchandrikak/Business-Analyst/tree/main/Excel)\
 🌱 [Employee Info Case Study](https://github.com/sarathchandrikak/sql-data-analysis/tree/main/Employee%20Info%20Case%20Study)
-
+ -->
 
 ## ♦️ Tools 🔨
 
