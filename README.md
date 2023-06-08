@@ -2,7 +2,7 @@
 
 Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-🌱 I am A Data Analyst with strong background in Computer Science Engineering. 3+ years of work experience with Python, OOPS, SQL
+🌱 I am A Data Analyst/ Analytics Engineer with strong background in Computer Science Engineering. 3+ years of work experience with Python, OOPS, SQL.
 
 🌱 My professional work includes developing 
 
