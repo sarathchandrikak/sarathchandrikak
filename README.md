@@ -2,19 +2,19 @@
 
 Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-🌱 I am A Data Analyst/ Analytics Engineer with strong background in Computer Science Engineering. 3+ years of work experience with Python, OOPS, SQL.
+🌱 I am A Data Scientist / Analytics Engineer with strong background in Computer Science Engineering. 3+ years of work experience with Python, OOPS, SQL.
 
 🌱 My professional work includes developing 
 
       ▶️ Enterprise ETL website using Python, PySpark
       
-      ▶️ Developing E2E customer segmentation models using Python and ML
+      ▶️ Developing E2E customer segmentation models using Python and Machine Learning
 
 🌱 I am well versed in 
 
      ▶️ Python, OOPS, System Design
 
-     ▶️ Advanced Excel, SQL, EDA, Tableau, ML, Data Modelling
+     ▶️ Advanced Excel, SQL, EDA, Machine Learning, Data Modelling
   
      ▶️ Big Data technologies - Spark, PySpark, Kafka, Airflow
     
@@ -23,6 +23,8 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 🌱 I am pursuing Msc. in Data Science offered by LJMU in partnership with IIIT-Bangalore in Data Engineering as specialisation. 
 
 🌱 My Data Analysis work over here includes casestudies and EDA using Python, SQL or data visualization tools Tableau or PowerBI.
+
+🌱 My Data Science work over here includes learnings and casestudies related to supervised and unsupervised ML algorithms.
 
 🌱 Apart from data and laptop, I am passionate about Fitness. In my free time, I cook and play violin. 
 
