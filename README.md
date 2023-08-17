@@ -24,9 +24,9 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
 🌱 I am pursuing Msc. in Data Science offered by LJMU in partnership with IIIT-Bangalore in Data Engineering as specialisation. 
 
-🌱 My Data Analysis work over here includes casestudies and EDA using Python, SQL or data visualization tools Tableau or PowerBI.
+🌱 My Data Analysis work over here includes casestudies and EDA using Python, SQL or data visualization tools Tableau. 
 
-🌱 My Data Science work over here includes learnings and casestudies related to supervised and unsupervised ML algorithms.
+🌱 My ML work includes projects and information related to Clustering, time series forecasting, NLP domains.
 
 🌱 Apart from data and laptop, I am passionate about Fitness. In my free time, I cook and play violin. 
 
