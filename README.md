@@ -2,7 +2,7 @@
 
 Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-🌱 I am A Data Scientist / Analytics Engineer with strong background in Computer Science Engineering. 3+ years of work experience with Python, OOPS, SQL. Currently working in Definitive Healthcare
+🌱 I am A Data Scientist / Analytics Engineer with strong background in Computer Science Engineering. 3+ years of work experience with Python, OOPS, SQL, ML. Currently working as Associate - Data Science in Definitive Healthcare
 
 🌱 My professional work includes developing 
 
