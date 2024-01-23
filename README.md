@@ -2,7 +2,7 @@
 
 Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-🌱 I am A Data Scientist / Analytics Engineer with strong background in Computer Science Engineering. 3+ years of work experience with Python, OOPS, SQL, ML, ML System Design. Currently working as Associate - Data Science in Definitive Healthcare
+🌱 I'm a Data Scientist/Analytics Engineer with a robust foundation in Computer Science Engineering. With over 3 years of professional experience, I specialize in Python, OOPS, SQL, and Machine Learning, including ML System Design. I currently serve as an Associate - Data Science at Definitive Healthcare.
 
 🌱 My professional work includes developing 
 
@@ -22,13 +22,13 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
      ▶️ Tools - Git, Bitbucket, VSCode, PYCharm, RStudio
 
-🌱 I am pursuing Msc. in Data Science offered by LJMU in partnership with IIIT-Bangalore in Data Engineering as specialisation. 
+🌱 I am currently enrolled in the MSc. in Data Science program offered by LJMU in partnership with IIIT-Bangalore, with a specialization in Data Engineering.
 
-🌱 My Data Analysis work over here includes casestudies and EDA using Python, SQL or data visualization tools Tableau. 
+🌱 In the realm of Data Analysis, I have engaged in case studies and exploratory data analysis (EDA) using Python, SQL, and data visualization tools such as Tableau.
 
-🌱 My ML work includes projects and information related to Clustering, time series forecasting, NLP domains.
+🌱 My work in Machine Learning encompasses projects focused on Regression, Clustering and time series forecasting providing valuable insights and practical experience.
 
-🌱 Apart from data and laptop, I am passionate about Fitness. In my free time, I cook and play violin. 
+🌱 Beyond the world of data and laptops, I have a passion for fitness. During my free time, I enjoy cooking and playing the violin.
 
 <!-- 
 ## ♦️ Data Analysis Projects 🚧
