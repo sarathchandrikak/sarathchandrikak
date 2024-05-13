@@ -2,7 +2,7 @@
 
 Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-🌱 I'm a Data Scientist/Analytics Engineer with a robust foundation in Computer Science Engineering. With over 3 years of professional experience, I specialize in Python, OOPS, SQL, and Machine Learning, including ML System Design. I currently serve as an Associate - Data Science at Definitive Healthcare.
+🌱 I'm a Data, Analytics Engineer with a robust foundation in Computer Science Engineering. With over 4.5 years of professional experience, I specialize in Python, PySpark, SQL, AWS, OOPS, core Machine Learning  and ML System Design. I currently serve as an Associate - Data Science at Definitive Healthcare.
 
 🌱 My professional work includes developing 
 
@@ -12,21 +12,17 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
 🌱 I am well versed in 
 
-     ▶️ Python, OOPS, System Design, R
+     ▶️ Python, PySpark, SQL, OOPS, ML System Design
 
-     ▶️ Excel, SQL, EDA, Machine Learning, Data Modelling
-     
-     ▶️ Big Data technologies - Spark, PySpark, Kafka, Airflow
-    
-     ▶️ AWS Cloud Services - S3, Redshift, EMR, Kinesis, Boto3
+     ▶️ Excel, EDA, Machine Learning, Data Modelling
+         
+     ▶️ AWS Cloud Services - S3, Redshift, EMR, Kinesis, Glue
 
      ▶️ Tools - Git, Bitbucket, VSCode, PYCharm, RStudio
 
-🌱 I am currently enrolled in the MSc. in Data Science program offered by LJMU in partnership with IIIT-Bangalore, with a specialization in Data Engineering.
+🌱 In the realm of Data Analysis, I have engaged in case studies and exploratory data analysis (EDA) using Python, SQL, and data visualization using Tableau.
 
-🌱 In the realm of Data Analysis, I have engaged in case studies and exploratory data analysis (EDA) using Python, SQL, and data visualization tools such as Tableau.
-
-🌱 My work in Machine Learning encompasses projects focused on Regression, Clustering and time series forecasting providing valuable insights and practical experience.
+🌱 My work in Machine Learning encompasses projects focused on Regression, Clustering providing valuable insights and practical experience.
 
 🌱 Beyond the world of data and laptops, I have a passion for fitness. During my free time, I enjoy cooking and playing the violin.
 
