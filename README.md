@@ -2,7 +2,7 @@
 
 Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-🌱 I'm a Data, Analytics Engineer with a robust foundation in Computer Science Engineering. With over 4.5 years of professional experience, I specialize in Python, PySpark, SQL, AWS, OOPS, core Machine Learning  and ML System Design. I currently serve as an Associate - Data Science at Definitive Healthcare.
+🌱 I'm a Data and Analytics Engineer with a robust foundation in Computer Science Engineering. With 5 years of professional experience, I specialize in Python, PySpark, SQL, AWS, GCP, OOPS, core Machine Learning and DE System Design. I currently serve as Senior Data Scientist at Definitive Healthcare.
 
 🌱 My professional work includes developing 
 
@@ -14,9 +14,9 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
      ▶️ Python, PySpark, SQL, OOPS, ML System Design
 
-     ▶️ Excel, EDA, Machine Learning, Data Modelling
+     ▶️ Excel, EDA, Machine Learning, Data Modelling, Data Orchestration - Airflow
          
-     ▶️ AWS Cloud Services - S3, Redshift, EMR, Kinesis, Glue
+     ▶️ Cloud Services - S3, Redshift, EMR, Kinesis, Glue, GCS, Bigquery, Dataflow
 
      ▶️ Tools - Git, Bitbucket, VSCode, PYCharm, RStudio
 
