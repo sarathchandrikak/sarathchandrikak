@@ -12,17 +12,17 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
 🌱 I am well versed in 
 
-     ▶️ Python, PySpark, SQL, OOPS, ML System Design
+     ▶️ Python, PySpark, SQL, OOPS, System Design
 
-     ▶️ Excel, EDA, Machine Learning, Data Modelling, Data Orchestration - Airflow
+     ▶️ Data Modelling, ETL, Batch & Streaming data pipelines, Kafka, Data Orchestration - Airflow
          
-     ▶️ Cloud Services - S3, Redshift, EMR, Kinesis, Glue, GCS, Bigquery, Dataflow
+     ▶️ Cloud Services - S3, Redshift, EMR, EC2, Glue, GCS, Bigquery, Dataflow
 
      ▶️ Tools - Git, Bitbucket, VSCode, PYCharm, RStudio
 
 🌱 In the realm of Data Analysis, I have engaged in case studies and exploratory data analysis (EDA) using Python, SQL, and data visualization using Tableau.
 
-🌱 My work in Machine Learning encompasses projects focused on Regression, Clustering providing valuable insights and practical experience.
+🌱 I have built robust data pipelines both in batch and stream data processing. Worked with multiple Databases and types of data.
 
 🌱 Beyond the world of data and laptops, I have a passion for fitness. During my free time, I enjoy cooking and playing the violin.
 
