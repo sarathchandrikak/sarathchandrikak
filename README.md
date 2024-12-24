@@ -2,11 +2,11 @@
 
 Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-🌱 I'm a Data and Analytics Engineer with a robust foundation in Computer Science Engineering. With 5 years of professional experience, I specialize in Python, PySpark, SQL, AWS, GCP, Kafka, OOPS, core Machine Learning and DE System Design. I currently serve as Senior Data Scientist at Definitive Healthcare.
+🌱 I'm a Data and Analytics Engineer with a robust foundation in Computer Science Engineering. With 5 years of professional experience, I specialize in Python, PySpark, SQL, AWS, GCP, Kafka, OOPS, core Machine Learning and DE System Design. I currently serve as Senior Data Engineer at Definitive Healthcare.
 
 🌱 My professional work includes developing 
 
-      ▶️ Enterprise ETL website using Python, PySpark
+      ▶️ Enterprise ETL website using Python, PySpark, OOPS, system design
       
       ▶️ Developing E2E customer segmentation models using Python and Machine Learning
 
