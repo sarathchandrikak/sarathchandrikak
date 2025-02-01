@@ -7,16 +7,19 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 🌱 My professional work includes developing 
 
       ▶️ Enterprise ETL website using Python, PySpark, OOPS, system design
+
+      ▶️ Building ETL Pipelines using Python, PySpark, Snowflake, GCP
       
       ▶️ Developing E2E customer segmentation models using Python and Machine Learning
+      
 
 🌱 I am well versed in 
 
-     ▶️ Python, PySpark, SQL, OOPS, System Design
+     ▶️ Python, PySpark, SQL, OOPS, DE System Design
 
      ▶️ Data Modelling, ETL, Batch & Streaming data pipelines, Kafka, Data Orchestration - Airflow
          
-     ▶️ Cloud Services - S3, Redshift, EMR, EC2, Glue, GCS, Bigquery, Dataflow
+     ▶️ Cloud Services - GCP, GCS, Bigquery, Dataflow, Looker Studio, AWS S3, lambda, SNS, Glue, Redshift, RDS, Athena
 
      ▶️ Tools - Git, Bitbucket, VSCode, PYCharm, RStudio
 
@@ -95,10 +98,12 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
   
  ## ♦️ ![Sarath's Profile Views](https://komarev.com/ghpvc/?username=sarathchandrikak)
   
-<!-- ![Sarath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarathchandrikak&show_icons=true&theme=dark) Please feel free to connect with me - sarathchandrikaksc@gmail.com
+<!-- ![Sarath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarathchandrikak&show_icons=true&theme=dark) Please feel free to connect with me - sarathchandrikaksc@gmail.com -->
 
 
 ## ♦️ Achievements 😎
 
-I have been awarded the Stride The Tride award for independently handling the development and management of the tool. -->
-
+- Successfully earned the Google Cloud Digital Leader certification.
+- Bagged 𝗧𝗲𝗮𝗺 𝗔𝘄𝗮𝗿𝗱 for exceptional performance in 2024. 
+- Awarded the 𝗦𝗵𝗶𝗻𝗶𝗻𝗴 𝗦𝘁𝗮𝗿 𝗔𝘄𝗮𝗿𝗱 for outstanding performance in 2023 and 2024.
+- Honored with the 𝗦𝘁𝗿𝗶𝗱𝗲 𝘁𝗵𝗲 𝗧𝗿𝗶𝗱𝗲 𝗔𝘄𝗮𝗿𝗱 for independently managing and developing a key tool during 2021-2022.
