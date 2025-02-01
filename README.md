@@ -2,13 +2,11 @@
 
 Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-🌱 I'm a Data and Analytics Engineer with a robust foundation in Computer Science Engineering. With 5 years of professional experience, I specialize in Python, PySpark, SQL, AWS, GCP, Kafka, OOPS, core Machine Learning and DE System Design. I currently serve as Senior Data Engineer at Definitive Healthcare.
+🌱 I'm a Data and Analytics Engineer with a robust foundation in Computer Science Engineering. With 5 years of professional experience, I specialize in Python, PySpark, SQL, AWS, GCP, Kafka, OOPS, core Machine Learning and DE System Design. I currently serve as Senior Associate - Data Engineer at Definitive Healthcare.
 
 🌱 My professional work includes developing 
 
-      ▶️ Enterprise ETL website using Python, PySpark, OOPS, system design
-
-      ▶️ Building ETL Pipelines using Python, PySpark, Snowflake, GCP
+      ▶️ Enterprise ETL website using Python, PySpark, OOPS, system design, ETL pipelines using Python, PySpark, SQL, duckdb, airflow
       
       ▶️ Developing E2E customer segmentation models using Python and Machine Learning
       
@@ -23,11 +21,11 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
      ▶️ Tools - Git, Bitbucket, VSCode, PYCharm, RStudio
 
-🌱 In the realm of Data Analysis, I have engaged in case studies and exploratory data analysis (EDA) using Python, SQL, and data visualization using Tableau.
+🌱 In the realm of Data Analysis, I have engaged in case studies and exploratory data analysis (EDA) using Python, SQL, and data visualization using Tableau
 
-🌱 I have built robust data pipelines both in batch and stream data processing. Worked with multiple Databases and types of data.
+🌱 I have built robust data pipelines both in batch and stream data processing. Worked with multiple Databases and types of data in GCP platform, Snowflake 
 
-🌱 Beyond the world of data and laptops, I have a passion for fitness. During my free time, I enjoy cooking and playing the violin.
+🌱 Beyond the world of data and laptops, I have a passion for fitness. During my free time, I enjoy cooking and playing the violin
 
 <!-- 
 ## ♦️ Data Analysis Projects 🚧
