@@ -102,7 +102,7 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
 ## ♦️ Achievements 😎
 
-- Successfully earned the Google Cloud Digital Leader certification.
+- Successfully earned the Google Cloud Professional Data Engineer, Digital Leader certification.
 - Bagged 𝗧𝗲𝗮𝗺 𝗔𝘄𝗮𝗿𝗱 for exceptional performance in 2024. 
 - Awarded the 𝗦𝗵𝗶𝗻𝗶𝗻𝗴 𝗦𝘁𝗮𝗿 𝗔𝘄𝗮𝗿𝗱 for outstanding performance in 2023 and 2024.
 - Honored with the 𝗦𝘁𝗿𝗶𝗱𝗲 𝘁𝗵𝗲 𝗧𝗿𝗶𝗱𝗲 𝗔𝘄𝗮𝗿𝗱 for independently managing and developing a key tool during 2021-2022.
