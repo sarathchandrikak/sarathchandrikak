@@ -4,7 +4,7 @@ Hello, folks! 👋
 
 🌱 I’m a **Senior Data & Analytics Engineer** with a strong foundation in **Computer Science Engineering** and **6.5+ years of industry experience** building scalable, production-grade data systems.
 
-I specialize in designing and implementing **robust data platforms, ETL/ELT pipelines, and analytics systems** using **Python, PySpark, SQL, GCP, databricke, GCP**.  
+I specialize in designing and implementing **robust data platforms, ETL/ELT pipelines, and analytics systems** using **Python, PySpark, SQL, GCP, databricks, GCP**.  
 Currently, I work as a **Senior Data Engineer at Thoughtworks**, contributing to large-scale enterprise data solutions.
 
 ---
