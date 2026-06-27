@@ -1,70 +1,123 @@
-## ♦️ Intro
+# 👋 Hi there, I'm Sarath Chandrika K
 
-Hello, folks! 👋  
+I'm a **Senior Data Engineer at Thoughtworks** with **6.5+ years of experience** designing and building scalable data platforms, analytics solutions, and modern lakehouse architectures.
 
-🌱 I’m a **Senior Data & Analytics Engineer** with a strong foundation in **Computer Science Engineering** and **6.5+ years of industry experience** building scalable, production-grade data systems.
+I specialize in developing **production-grade batch and streaming data systems**, enabling organizations to transform raw data into reliable, governed, and business-ready assets.
 
-I specialize in designing and implementing **robust data platforms, ETL/ELT pipelines, and analytics systems** using **Python, PySpark, SQL, GCP, databricks, GCP**.  
-Currently, I work as a **Senior Data Engineer at Thoughtworks**, contributing to large-scale enterprise data solutions.
-
----
-
-## ♦️ What I Do 🚀
-
-🌱 **Core Expertise**
-- Python, PySpark, SQL, OOPS  
-- Data Engineering System Design  
-- Data Modeling (Dimensional & Analytical Models)
-
-🌱 **Data Engineering**
-- Batch & Streaming Data Pipelines  
-- ETL / ELT Design & Optimization  
-- Kafka-based event streaming  
-- Workflow orchestration using Airflow  
-- Databricks (Jobs, Delta Lake, Pipelines)
-
-🌱 **Cloud Platforms**
-- **Google Cloud Platform (GCP):** BigQuery, GCS, Dataflow, Looker Studio  
-- **AWS:** S3, Lambda, SNS, Glue, Redshift, RDS, Athena  
-
-🌱 **Databases & Platforms**
-- BigQuery, Snowflake  
-- Relational and analytical data stores  
-- Structured, semi-structured, and streaming data
-
-🌱 **Data Analysis**
-- Exploratory Data Analysis (EDA) using Python & SQL  
-- Business-driven case studies  
-- Data visualization with Tableau
-
-🌱 **Tools & Development**
-- Git, Bitbucket  
-- VS Code, PyCharm, RStudio  
+My primary focus areas include **Data Platform Engineering, Lakehouse Architectures, Data Modeling, Infrastructure as Code, and AI-enabled Data Systems**.
 
 ---
 
-## ♦️ Skills 💻
+## 🚀 What I Build
 
-![](https://img.shields.io/badge/DataEngineering-informational?style=flat)
-![](https://img.shields.io/badge/DataModelling-informational?style=flat)
-![](https://img.shields.io/badge/DataWarehousing-informational?style=flat)
-![](https://img.shields.io/badge/DataOrchestration-informational?style=flat)
-![](https://img.shields.io/badge/ETL&PipelineDesign-informational?style=flat)
-![](https://img.shields.io/badge/BatchProcessing-informational?style=flat)
-![](https://img.shields.io/badge/StreamProcessing-informational?style=flat)
-![](https://img.shields.io/badge/SparkStreaming-informational?style=flat)
+### Data Platform Engineering
+
+* Design and implementation of scalable data platforms
+* Medallion Architecture (Bronze, Silver, Gold)
+* Batch and streaming data pipelines
+* ETL / ELT framework development
+* Incremental processing and CDC patterns
+* Data quality and observability practices
+
+### Data Engineering
+
+* Python, PySpark, SQL
+* Apache Spark & Spark Structured Streaming
+* Apache Kafka
+* Apache Airflow
+* Delta Lake
+* Databricks Workflows and Jobs
+* Data Modeling (Kimball & Analytical Models)
+
+### Cloud & Lakehouse Technologies
+
+#### Google Cloud Platform
+
+* BigQuery
+* GCS
+* Dataflow
+* Pub/Sub
+* Looker Studio
+
+#### Microsoft Azure
+* Azure Data Lake Storage (ADLS Gen2)
+* Azure Databricks
+* Azure Data Factory (ADF)
+* Azure Event Hubs
+* Azure Functions
+* Azure Synapse Analytics
+* Azure Key Vault
+* Azure Monitor
+
+### Infrastructure & DevOps
+
+* Terraform
+* GitHub Actions
+* Git
+* Bitbucket
+* CI/CD practices
+* Docker
+* Environment Management
+
+### AI & Modern Data Systems
+
+* Retrieval-Augmented Generation (RAG)
+* Embeddings
+* Vector Search
+* Metadata-driven systems
+* LLM-powered Data Assistants
 
 ---
 
-## ♦️ Beyond Work 🌱
+## 💻 Areas of Interest
 
-Outside the world of data and laptops:
-- 🏋️‍♀️ I’m passionate about **fitness and health**
-- 🍳 I enjoy **cooking**
-- 🎻 I play the **violin**
-- 📚 I’m deeply interested in **learning, reading, and continuous growth**
+✔ Modern Data Platforms
+
+✔ Lakehouse Architectures
+
+✔ Streaming Systems
+
+✔ Infrastructure as Code
+
+✔ Data Governance
+
+✔ Data Contracts
+
+✔ AI for Data Engineering
+
+✔ Data System Design
 
 ---
+
+## 🌱 Beyond Engineering
+
+Outside work, I enjoy:
+
+🏋️ Fitness and well-being
+
+🍳 Cooking
+
+🎻 Playing the violin
+
+📚 Reading, learning, and sharing knowledge with the data community
+
+---
+
+## 📜 Certifications & Achievements
+
+* Google Cloud Professional Data Engineer
+* Google Cloud Digital Leader
+* Team Award – 2024
+* Shining Star Award – 2023 & 2024
+* Stride the Tide Award – 2021–2022
+
+---
+
+## 🎯 Current Goal
+
+Actively building expertise in **modern data platform engineering, lakehouse architectures, Infrastructure as Code, and AI-powered data systems**, while exploring opportunities within the Dutch data ecosystem.
+
+Let's connect and discuss Data Engineering, Databricks, Spark, Terraform, Streaming Architectures, or all things data.
 
 ## ♦️ Connect with Me 🔗
 
@@ -90,12 +143,3 @@ Outside the world of data and laptops:
 
 ## ♦️ Profile Views 👀
 ![Sarath's Profile Views](https://komarev.com/ghpvc/?username=sarathchandrikak)
-
----
-
-## ♦️ Achievements 😎
-
-- Successfully earned the **Google Cloud Professional Data Engineer** and **Digital Leader** certifications.
-- Bagged **𝗧𝗲𝗮𝗺 𝗔𝘄𝗮𝗿𝗱** for exceptional performance in **2024**.
-- Awarded the **𝗦𝗵𝗶𝗻𝗶𝗻𝗴 𝗦𝘁𝗮𝗿 𝗔𝘄𝗮𝗿𝗱** for outstanding performance in **2023 and 2024**.
-- Honored with the **𝗦𝘁𝗿𝗶𝗱𝗲 𝘁𝗵𝗲 𝗧𝗿𝗶𝗱𝗲 𝗔𝘄𝗮𝗿𝗱** for independently managing and developing a key tool during **2021–2022**.
